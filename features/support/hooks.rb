@@ -16,7 +16,7 @@ Before do
         "appium:deviceName": 'iPhone 15 Plus',
         "appium:platformVersion": '17.2',
         "appium:automationName": 'XCUITest',
-        "appium:app": '/Users/akashsoni/Desktop/autotest/ruby-appium-cucumber/calculator.app'
+        "appium:app": './app/calculator.app'
       },
       # appium_lib: {
       #   server_url: 'http://127.0.0.1:4723/wd/hub'
