@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Mar 11 16:15:04 AEDT 2024","Mon Mar 11 16:15:13 AEDT 2024","9327","","Calculator","","calculator","","The user add two number, Examples (#1)","Location - features/gherkin/calculator.feature:20:10"
+"passed","Mon Mar 11 16:14:49 AEDT 2024","Mon Mar 11 16:15:04 AEDT 2024","14386","","Calculator","","calculator","","The user open calculator and click on button","Location - features/gherkin/calculator.feature:4"
+"passed","Mon Mar 11 16:15:13 AEDT 2024","Mon Mar 11 16:15:23 AEDT 2024","9684","","Calculator","","calculator","","The user add two number, Examples (#2)","Location - features/gherkin/calculator.feature:21:10"
